@@ -1,7 +1,0 @@
-﻿  GameLevel.cpp
-C:\Workspace\ConsoleEngine_20250224\ClickDemo\Level\GameLevel.cpp(19,20): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
-C:\Workspace\ConsoleEngine_20250224\ClickDemo\Level\GameLevel.cpp(81,30): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Workspace\ConsoleEngine_20250224\ClickDemo\Level\GameLevel.cpp(81,52): warning C4244: '인수': 'double'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  ClickDemo.vcxproj -> C:\Workspace\ConsoleEngine_20250224\Bin\x64\Debug\ClickDemo\ClickDemo.exe
-  C:\Workspace\ConsoleEngine_20250224\\Lib\Engine.dll
-  1개 파일이 복사되었습니다.
